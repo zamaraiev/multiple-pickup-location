@@ -3,7 +3,7 @@
 Plugin Name: Custom Shipping Method
 Description: Adds a custom shipping method for WooCommerce with regions and cities options.
 Version: 1.0
-Author: Your Name
+Author: Dmytro Zamaraiev
 */
 
 if ( ! defined( 'WPINC' ) ) {
